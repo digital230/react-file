@@ -1,6 +1,6 @@
 {
   "name": "digitalrcc",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "create react component from commandline",
   "main": "index.js",
   "scripts": {
