@@ -20,7 +20,12 @@
     "react-component-create",
     "react-component-file",
     "create-react-file",
-    "create-react-component"
+    "create-react-component",
+    "digital",
+    "digitalrcc",
+    "commander",
+    "commandline",
+    "arguments"
   ],
   "repository": {
     "type": "git",

@@ -23,3 +23,7 @@ use 2: digitalrcc name -e -S -s -d;
 '-r, --withRedux', 'file with redux', false;
 
 '-S, --stateless', 'stateless component', false;
+
+
+#update v1.1.1
+- life cycle hooks added

@@ -10,41 +10,20 @@ class ${className} extends ${extdenWith} {
     this.state = {}
   }
 
-  componentDidMount() {
-
-  }
-
-  componentWillMount() {
-
-  }
+  //componentDidMount() {}
 
 
+  //static getDerivedStateFromProps(props, state) { return null; }
 
-  static getDerivedStateFromProps(props, state) {
-    return null;
-  }
+  //shouldComponentUpdate(nextProps, nextState) {}
 
-  shouldComponentUpdate(nextProps, nextState) {
-
-  }
-
-  componentWillUpdate(nextProps, nextState) {
-
-  }
-
-  componentDidUpdate(prevProps, prevState) {
-
-  }
+  //componentDidUpdate(prevProps, prevState) {}
 
 
 
-  componentDidCatch(error, info) {
+  //componentDidCatch(error, info) {}
 
-  }
-
-  componentWillUnmount() {
-
-  }
+  //componentWillUnmount() {}
 
 
 

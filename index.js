@@ -12,6 +12,7 @@ function run(name, options) {
   var dir = options.dir;
   var withRedux = options.withRedux;
   var stateless = options.stateless;
+  console.log(name)
 
   if (stylesheet && !['css', 'scss', 'less'].includes(stylesheet)) {
     console.log('stylesheet file name not valid exit code:2');
@@ -19,6 +20,7 @@ function run(name, options) {
   }
 
   var className = name.charAt(0).toUpperCase() + name.substr(1);
+  console.log(className)
   var classNameFull = `${className}.${ext}`;
   var dirName = className.toLowerCase();
   var filePath, ssPath, fileContent = '';
