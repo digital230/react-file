@@ -12,14 +12,11 @@ class ${className} extends ${extdenWith} {
 
   //componentDidMount() {}
 
-
   //static getDerivedStateFromProps(props, state) { return null; }
 
   //shouldComponentUpdate(nextProps, nextState) {}
 
   //componentDidUpdate(prevProps, prevState) {}
-
-
 
   //componentDidCatch(error, info) {}
 

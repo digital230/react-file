@@ -26,4 +26,7 @@ use 2: digitalrcc name -e -S -s -d;
 
 
 #update v1.1.1
-- life cycle hooks added
+- lifecycle hooks added
+
+#update v1.1.2
+- lifecycle issue fixed and commented
